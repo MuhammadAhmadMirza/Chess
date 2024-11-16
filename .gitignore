@@ -1,0 +1,4 @@
+dist/
+src/logs/
+src/modules/__pycache__/
+src/utilities/__pycache__/
