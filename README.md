@@ -1,6 +1,8 @@
 # Chess Game
 
-This project is an implementation of the **Rules of Chess** in Python, using **Pygame** for the graphical interface. The game supports various features such as **FEN Import/Export**, **Engine Analysis** with **Stockfish**, customizable **depth for engine analysis**, **Flip POV**, and a **Light/Dark theme** toggle. It was made for my educational purposes so its not pretty. It is similar although not identical to this: [github repo](https://github.com/mikolaj-skrzypczak/chess-engine)
+This project is an implementation of the **Rules of Chess** in Python, using **Pygame** for the graphical interface. The game supports various features such as **FEN Import/Export**, **Engine Analysis** with **Stockfish**, customizable **depth for engine analysis**, **Flip POV**, and a **Light/Dark theme** toggle. It was made for my educational purposes so its not pretty. 
+
+A class used in this code is similar although modified and changed compared to this [github repo](https://github.com/mikolaj-skrzypczak/chess-engine)
 
 ![Chess](src/assets/images/demo.png)
 
